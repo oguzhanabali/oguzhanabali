@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="https://www.oguzhanabali.com"><img src="https://img.shields.io/badge/oguzhanabali.com-7F5AF0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/oguzhanabali/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/experience-15%2B_years-8B5CF6?style=for-the-badge" alt="15+ years of experience"/>
   <img src="https://img.shields.io/badge/based_in-T%C3%BCrkiye-3B82F6?style=for-the-badge" alt="Based in Türkiye"/>
   <img src="https://komarev.com/ghpvc/?username=oguzhanabali&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS" alt="Profile views"/>
